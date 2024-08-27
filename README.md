@@ -1,5 +1,3 @@
-## Olá, me chamo Paulo! 
-
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando com .NET e Angular
