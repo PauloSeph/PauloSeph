@@ -18,7 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" />    
 </div>
 
+
+<!-- 
+Não está funcionando
 ![snake gif](https://github.com/PauloSeph/PauloSeph/blob/output/github-contribution-grid-snake.svg)
+-->
 
           
           
