@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" />    
 </div>
 
-![Snake animation](https://github.com/pauloseph/pauloseph/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pauloseph/blob/output/github-contribution-grid-snake.svg)
 
           
           
